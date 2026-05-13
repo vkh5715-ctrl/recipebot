@@ -7,8 +7,8 @@ from telegram.ext import Application, CommandHandler, MessageHandler, CallbackQu
 # ============================
 # ВСТАВЬ СВОИ КЛЮЧИ СЮДА
 # ============================
-TELEGRAM_TOKEN = "ВАШ_ТОКЕН_BOTFATHER_СЮДА"
-GROQ_API_KEY = "ВАШ_КЛЮЧ_GROQ_СЮДА"
+TELEGRAM_TOKEN = "8647995056:AAFNCf4_4oV5KIY0XimS_RH82hrs8cwBsF8"
+GROQ_API_KEY = "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"
 
 logging.basicConfig(format="%(asctime)s - %(name)s - %(levelname)s - %(message)s", level=logging.INFO)
 logger = logging.getLogger(__name__)
